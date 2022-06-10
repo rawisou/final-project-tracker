@@ -64,11 +64,11 @@ function App() {
         <p>- PWA</p>
         <p>- Small fixes on existing features (Add, Update, Delete, Summary/Analysis) if needed.</p>
         <p>- Design implementation should be finalized</p>
+        <p>- Deploy!!!!</p>
       </article>
 
       <article className="card">
         <h3><span>18 June</span></h3>
-        <p>- Deploy!!!!</p>
         <p>- PWA should be in place. The app should be downloadable</p>
       </article>
 
