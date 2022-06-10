@@ -14,7 +14,7 @@ function App() {
 
       <article className="card">
         <h3><span>11 June</span></h3>
-        <p className='name'>Rawi off (wedding)</p>
+        <p className='name'>Rawi off fullday (wedding)</p>
         <p>- Design planning</p>
         <p>- AddNote Component (both FE/BE)</p>
         <p>- Edit and delete features</p>
@@ -22,36 +22,43 @@ function App() {
 
       <article className="card">
         <h3><span>12 June</span></h3>
+        <p>- Start working on PWA</p>
       </article>
 
       <article className="card">
         <h3><span>13 June</span></h3>
-        <p className='name'>Emma off (working)</p>
-        <p>- Start working on PWA</p>
+        <p className='name'>Emma off halfday </p>
+        <p>HALF-TIME DEMO</p>
+        <p>- PWA</p>
         <p>- Demo page</p>
       </article>
 
       <article className="card">
         <h3><span>14 June</span></h3>
-        <p className='name'>Emma off (working)</p>
+        <p className='name'>Emma off halfday </p>
+        <p>- PWA</p>
+        <p>- Demo page</p>
         <p>- Summary component</p>
         <p>- Design conclusion and start the implementation</p>
       </article>
 
       <article className="card">
         <h3><span>15 June</span></h3>
+        <p>- PWA</p>
         <p>- Summary component</p>
         <p>- Design implementation</p>
       </article>
 
       <article className="card">
         <h3><span>16 June</span></h3>
+        <p>- PWA</p>
         <p>- Design implementation</p>
       </article>
 
       <article className="card">
         <h3><span>17 June</span></h3>
-        <p>- Design implementation</p>
+        <p>- PWA</p>
+        <p>- Design implementation should be finalized</p>
       </article>
 
       <article className="card">
@@ -80,7 +87,7 @@ function App() {
 
       <article className="card">
         <h3><span>22 June</span></h3>
-        <p className='name'> Rawi off (Åland)</p>
+        <p className='name'> Rawi off fullday (Åland)</p>
       </article>
 
       <article className="card">
