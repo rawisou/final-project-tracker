@@ -22,6 +22,7 @@ function App() {
 
       <article className="card">
         <h3><span>12 June</span></h3>
+        <p>- Small fixes on existing features (Add, Update, Delete) if needed.</p>
         <p>- Start working on PWA</p>
       </article>
 
@@ -29,7 +30,9 @@ function App() {
         <h3><span>13 June</span></h3>
         <p className='name'>Emma off halfday </p>
         <p>HALF-TIME DEMO</p>
+        <p>- Small fixes on existing features (Add, Update, Delete) if needed.</p>
         <p>- PWA</p>
+        <p>- Summary component</p>
         <p>- Demo page</p>
       </article>
 
@@ -70,18 +73,21 @@ function App() {
       <article className="card">
         <h3><span>19 June</span></h3>
         <p>- TEST (Bug hunting)</p>
+        <p>- Fixing stuff and make sure everything work.</p>
+        <p>- Revise the app flow from user perspective, anything to add, to remove or to modify?</p>
       </article>
 
       <article className="card">
         <h3><span>20 June</span></h3>
-        <p>- FEATURE FREEZE! No more new features!</p>
+        <p>- FEATURE FREEZE! No more new features! NO BIG CHANGES!</p>
         <p>- TEST (Bug hunting)</p>
         <p>- Big cleanup</p>
       </article>
 
       <article className="card">
         <h3><span>21 June</span></h3>
-        <p>- FEATURE FREEZE! No more new features!</p>
+        <p>- Do whatever is left to be done!</p>
+        <p>- FEATURE FREEZE! No more new features! NO BIG CHANGES!</p>
         <p>- Aim for handing in?</p>
       </article>
 
