@@ -55,12 +55,14 @@ function App() {
       <article className="card">
         <h3><span>16 June</span></h3>
         <p>- PWA</p>
+        <p>- Small fixes on existing features (Add, Update, Delete, Summary/Analysis) if needed.</p>
         <p>- Design implementation</p>
       </article>
 
       <article className="card">
         <h3><span>17 June</span></h3>
         <p>- PWA</p>
+        <p>- Small fixes on existing features (Add, Update, Delete, Summary/Analysis) if needed.</p>
         <p>- Design implementation should be finalized</p>
       </article>
 
