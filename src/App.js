@@ -16,6 +16,8 @@ function App() {
         <h3><span>11 June</span></h3>
         <p className='name'>Rawi off (wedding)</p>
         <p>- Design planning</p>
+        <p>- AddNote Component (both FE/BE)</p>
+        <p>- Edit and delete features</p>
       </article>
 
       <article className="card">
