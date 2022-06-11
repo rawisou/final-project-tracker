@@ -7,13 +7,13 @@ function App() {
     <h1>FINAL PROJECT: RAWI EMMA SARA</h1>
     <main className='project-card'>
       <article className="card">
-        <h3><span className='today'>10 June</span></h3>
+        <h3><span>10 June</span></h3>
         <p>- AddNote Component (both FE/BE)</p>
         <p>- Edit and delete features</p>
       </article>
 
       <article className="card">
-        <h3><span>11 June</span></h3>
+        <h3><span  className='today'>11 June</span></h3>
         <p className='name'>Rawi off fullday (wedding)</p>
         <p>- Design planning</p>
         <p>- AddNote Component (both FE/BE)</p>
