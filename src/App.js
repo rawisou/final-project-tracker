@@ -13,7 +13,7 @@ function App() {
       </article>
 
       <article className="card">
-        <h3><span  className='today'>11 June</span></h3>
+        <h3><span>11 June</span></h3>
         <p className='name'>Rawi off fullday (wedding)</p>
         <p>- Design planning</p>
         <p>- AddNote Component (both FE/BE)</p>
@@ -21,7 +21,7 @@ function App() {
       </article>
 
       <article className="card">
-        <h3><span>12 June</span></h3>
+        <h3><span className='today'>12 June</span></h3>
         <p>- Small fixes on existing features (Add, Update, Delete) if needed.</p>
         <p>- Start working on PWA</p>
       </article>
