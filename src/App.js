@@ -30,7 +30,7 @@ function App() {
         <h3><span className='today'>13 June</span></h3>
         <p className='name'>Emma off halfday </p>
         <p>HALF-TIME DEMO</p>
-        <p>- Add and update notes</p>
+        <p>- Add, update and delete notes</p>
         <p>- PWA</p>
       </article>
 
@@ -38,7 +38,7 @@ function App() {
         <h3><span>14 June</span></h3>
         <p className='name'>Emma off halfday </p>
         <p>- PWA</p>
-        <p>- Add and update notes</p>
+        <p>- Add, update and delete notes</p>
         <p>- Demo page</p>
         <p>- Summary component</p>
         <p>- Design conclusion and start the implementation</p>
