@@ -21,25 +21,24 @@ function App() {
       </article>
 
       <article className="card">
-        <h3><span className='today'>12 June</span></h3>
+        <h3><span>12 June</span></h3>
         <p>- Small fixes on existing features (Add, Update, Delete) if needed.</p>
         <p>- Start working on PWA</p>
       </article>
 
       <article className="card">
-        <h3><span>13 June</span></h3>
+        <h3><span className='today'>13 June</span></h3>
         <p className='name'>Emma off halfday </p>
         <p>HALF-TIME DEMO</p>
-        <p>- Small fixes on existing features (Add, Update, Delete) if needed.</p>
+        <p>- Add and update notes</p>
         <p>- PWA</p>
-        <p>- Summary component</p>
-        <p>- Demo page</p>
       </article>
 
       <article className="card">
         <h3><span>14 June</span></h3>
         <p className='name'>Emma off halfday </p>
         <p>- PWA</p>
+        <p>- Add and update notes</p>
         <p>- Demo page</p>
         <p>- Summary component</p>
         <p>- Design conclusion and start the implementation</p>
