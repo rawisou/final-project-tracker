@@ -27,7 +27,7 @@ function App() {
       </article>
 
       <article className="card">
-        <h3><span className='today'>13 June</span></h3>
+        <h3><span>13 June</span></h3>
         <p className='name'>Emma off halfday </p>
         <p>HALF-TIME DEMO</p>
         <p>- Add, update and delete notes</p>
@@ -35,7 +35,7 @@ function App() {
       </article>
 
       <article className="card">
-        <h3><span>14 June</span></h3>
+        <h3><span  className='today'>14 June</span></h3>
         <p className='name'>Emma off halfday </p>
         <p>- PWA</p>
         <p>- Add, update and delete notes</p>
