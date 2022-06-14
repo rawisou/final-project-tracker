@@ -46,6 +46,7 @@ function App() {
 
       <article className="card">
         <h3><span>15 June</span></h3>
+        <p className='name'>Sara off halfday after lunch</p>
         <p>- PWA</p>
         <p>- Summary component</p>
         <p>- Design implementation</p>
@@ -87,6 +88,7 @@ function App() {
 
       <article className="card">
         <h3><span>21 June</span></h3>
+        <p className='name'>Sara interview (3pm)</p>
         <p>- Do whatever is left to be done!</p>
         <p>- FEATURE FREEZE! No more new features! NO BIG CHANGES!</p>
         <p>- Aim for handing in?</p>
