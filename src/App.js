@@ -31,13 +31,11 @@ function App() {
         <p className='name'>Emma off halfday </p>
         <p>HALF-TIME DEMO</p>
         <p>- Add, update and delete notes</p>
-        <p>- PWA</p>
       </article>
 
       <article className="card">
-        <h3><span  className='today'>14 June</span></h3>
+        <h3><span>14 June</span></h3>
         <p className='name'>Emma off halfday </p>
-        <p>- PWA</p>
         <p>- Add, update and delete notes</p>
         <p>- Demo page</p>
         <p>- Summary component</p>
@@ -45,15 +43,17 @@ function App() {
       </article>
 
       <article className="card">
-        <h3><span>15 June</span></h3>
+        <h3><span className='today'>15 June</span></h3>
         <p className='name'>Sara off halfday after lunch</p>
-        <p>- PWA</p>
+        <h4>Meet at Il café Nytorget 9AM</h4>
+        <p>-Wrapping up on Add, Edit and Delete notes</p>
         <p>- Summary component</p>
         <p>- Design implementation</p>
       </article>
 
       <article className="card">
         <h3><span>16 June</span></h3>
+        <p className='name'>Rawi interview. Available after 3:30PM</p>
         <p>- PWA</p>
         <p>- Small fixes on existing features (Add, Update, Delete, Summary/Analysis) if needed.</p>
         <p>- Design implementation</p>
