@@ -43,7 +43,7 @@ function App() {
       </article>
 
       <article className="card">
-        <h3><span className='today'>15 June</span></h3>
+        <h3><span>15 June</span></h3>
         <p className='name'>Sara off halfday after lunch</p>
         <h4>Meet at Il café Nytorget 9AM</h4>
         <p>-Wrapping up on Add, Edit and Delete notes</p>
@@ -52,7 +52,7 @@ function App() {
       </article>
 
       <article className="card">
-        <h3><span>16 June</span></h3>
+        <h3><span className='today'>16 June</span></h3>
         <p className='name'>Rawi interview. Available after 3:30PM</p>
         <p>- PWA</p>
         <p>- Small fixes on existing features (Add, Update, Delete, Summary/Analysis) if needed.</p>
