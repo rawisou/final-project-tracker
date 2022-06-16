@@ -52,7 +52,7 @@ function App() {
       </article>
 
       <article className="card">
-        <h3><span className='today'>16 June</span></h3>
+        <h3><span>16 June</span></h3>
         <p className='name'>Rawi interview. Available after 3:30PM</p>
         <p>- PWA</p>
         <p>- Small fixes on existing features (Add, Update, Delete, Summary/Analysis) if needed.</p>
@@ -60,9 +60,10 @@ function App() {
       </article>
 
       <article className="card">
-        <h3><span>17 June</span></h3>
-        <p>- PWA</p>
-        <p>- Small fixes on existing features (Add, Update, Delete, Summary/Analysis) if needed.</p>
+        <h3><span className='today'>17 June</span></h3>
+        <h4>Meet at Il café Drottninggatan 9:30AM</h4>
+        <p>- Moving checkboxes to the Note component</p>
+        <p>- Meeting with Daniel 1:30PM : fix the edit function for both textareas and checkboxes</p>
         <p>- Design implementation should be finalized</p>
         <p>- Deploy!!!!</p>
       </article>
