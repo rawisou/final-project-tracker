@@ -60,7 +60,7 @@ function App() {
       </article>
 
       <article className="card">
-        <h3><span className='today'>17 June</span></h3>
+        <h3><span>17 June</span></h3>
         <h4>Meet at Il café Drottninggatan 9:30AM</h4>
         <p>- Moving checkboxes to the Note component</p>
         <p>- Meeting with Daniel 1:30PM : fix the edit function for both textareas and checkboxes</p>
@@ -81,23 +81,27 @@ function App() {
       </article>
 
       <article className="card">
-        <h3><span>20 June</span></h3>
-        <p>- FEATURE FREEZE! No more new features! NO BIG CHANGES!</p>
-        <p>- TEST (Bug hunting)</p>
+        <h3><span className='today'>20 June</span></h3>
+        <p>- Meeting with Daniel </p>
+        <p>- Major features should be in place</p>
+        <p>- Design implementation should be finalized</p>
         <p>- Big cleanup</p>
       </article>
 
       <article className="card">
         <h3><span>21 June</span></h3>
         <p className='name'>Sara interview (3pm)</p>
+        <p>- PWA</p>
+        <p>- Deploy</p>
         <p>- Do whatever is left to be done!</p>
         <p>- FEATURE FREEZE! No more new features! NO BIG CHANGES!</p>
-        <p>- Aim for handing in?</p>
       </article>
 
       <article className="card">
         <h3><span>22 June</span></h3>
-        <p className='name'> Rawi off fullday (Åland)</p>
+        <p className='name'> Rawi off fullday (Åland) but can work from the boat!</p>
+        <p>- Do whatever is left to be done!</p>
+        <p>- Aim for handing in?</p>
       </article>
 
       <article className="card">
