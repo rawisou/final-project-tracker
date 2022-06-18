@@ -83,14 +83,7 @@ function App() {
       <article className="card">
         <h3><span className='today'>20 June</span></h3>
         <p>- Meeting with Daniel </p>
-        <p>- Merge branches: start with Styling. </P>
-          <h4>The flow is:</h4>
-        <p> 
-          a) Emma push change to Styling. 
-          b) merge Styling with main. 
-          c) Rawi pulls from main to the checkboxes branch. 
-          d) Rawi pushes checkboxes. 
-          e) merge checkboxes to main</p>
+        <p>- Merge branches: start with Styling. </p>
         <p>- Major features should be in place</p>
         <p>- Design implementation should be finalized</p>
         <p>- Big cleanup</p>
