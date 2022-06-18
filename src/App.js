@@ -76,14 +76,21 @@ function App() {
 
       <article className="card">
         <h3><span>19 June</span></h3>
-        <p>- TEST (Bug hunting)</p>
+        <p>- Styling and checkboxes branches are being worked on</p>
         <p>- Fixing stuff and make sure everything work.</p>
-        <p>- Revise the app flow from user perspective, anything to add, to remove or to modify?</p>
       </article>
 
       <article className="card">
         <h3><span className='today'>20 June</span></h3>
         <p>- Meeting with Daniel </p>
+        <p>- Merge branches: start with Styling. </P>
+          <h4>The flow is:</h4>
+        <p> 
+          a) Emma push change to Styling. 
+          b) merge Styling with main. 
+          c) Rawi pulls from main to the checkboxes branch. 
+          d) Rawi pushes checkboxes. 
+          e) merge checkboxes to main</p>
         <p>- Major features should be in place</p>
         <p>- Design implementation should be finalized</p>
         <p>- Big cleanup</p>
