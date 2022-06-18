@@ -71,6 +71,7 @@ function App() {
       <article className="card">
         <h3><span>18 June</span></h3>
         <p>- PWA should be in place. The app should be downloadable</p>
+        <p>- Styling and checkboxes branches are being worked on</p>
       </article>
 
       <article className="card">
